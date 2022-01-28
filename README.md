@@ -6,3 +6,4 @@ Experiments are in the form of jupyter notebooks with comments.
 * Persistence of Chaos - Feedforward NNs.ipynb
 * Persistence of Chaos - Recurrent NNs.ipynb
 * RNNs and Chaos - Distance Figure.ipynb
+* RNNs and Chaos - Period 3 Probability
