@@ -12,4 +12,4 @@ Experiments are in the form of jupyter notebooks with comments.
 # Camera Ready - ToDo
 
 * Extend to width 3-4
-* Show Jacobian that has max eigenvalue with 2D RNN (x,y)->(x',y')
+* Show Jacobian that has max eigenvalue with 2D RNN (x,y)->(x',y') 
