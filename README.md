@@ -1,4 +1,4 @@
-# Beyond Exploding Gradients in Recurrent Neural Nets: Scrambling Phenomena and the Persistence of Chaos
+# On Scrambling Phenomena for Randomly Initialized Recurrent Networks
 
 Included are experiments that empirically explain our theoretical findings about chaotic behavior of RNNs.
 
